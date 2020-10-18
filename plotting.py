@@ -1,3 +1,5 @@
+#basically this piece of code generates a graph of the timeline of object
+
 from Motiondetector import df
 from bokeh.plotting import output_file,show,figure
 from bokeh.models import HoverTool,ColumnDataSource
